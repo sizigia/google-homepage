@@ -18,6 +18,7 @@
     line-height: 28px;
     padding: 0 12px;
 }
+
 .bbnav {
     padding-left: 27px;
     margin: 0 !important;
@@ -30,6 +31,7 @@
 
 a {
     text-decoration: none;
+    color: rgba(0,0,0,0.87);
 }
 
 ul {

@@ -1,4 +1,4 @@
-.topnav, .bottombar {
+.topnav, .bottomnav {
     overflow: hidden;
 }
 
@@ -10,7 +10,13 @@
 
 .right {
     float: right;
-    text-align: center;
+    padding: 14px 16px;
+}
+.right, .left {
+    display: inline-block;
+}
+.left {
+    float: left;
     padding: 14px 16px;
 }
 
@@ -24,6 +30,13 @@ ul {
 
 .logo, .boxsearch, .searchbuttons, p {
     text-align: center;
+}
+
+.bottomnav {
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: lightgray;
 }
 
 img {

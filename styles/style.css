@@ -1,8 +1,14 @@
-.topnav {
+.topnav, .bottombar {
     overflow: hidden;
 }
 
 .topnav li {
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.right {
     float: right;
     text-align: center;
     padding: 14px 16px;

@@ -34,10 +34,6 @@ a {
     color: rgba(0,0,0,0.87);
 }
 
-ul {
-    list-style-type: none;
-}
-
 .logo, .boxsearch, .searchbuttons, p {
     text-align: center;
 }
@@ -60,6 +56,11 @@ img {
     padding-top: 109px;
     height: 92px;
     width: 272px;
+}
+
+.logo {
+    height: 233px;
+    margin-top: 89px;
 }
 
 body, a, p {

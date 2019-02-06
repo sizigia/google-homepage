@@ -3,8 +3,11 @@
 }
 
 .topnav {
+    position: absolute;
     top: 0;
     width: 100%;
+    line-height: 40px;
+    background-color: #fff;
 }
 
 .topnav span {
@@ -31,7 +34,7 @@
     margin: 0 !important;
 }
 
-#right {
+.right, .glutton, .glink {
     margin-right: 30px;
     float: right;
 }

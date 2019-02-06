@@ -8,18 +8,10 @@
     padding: 14px 16px;
 }
 
-.right {
-    float: right;
-    padding: 14px 16px;
+.bbnav {
+    padding-left: 27px;
+    margin: 0 !important;
 }
-.right, .left {
-    display: inline-block;
-}
-.left {
-    float: left;
-    padding: 14px 16px;
-}
-
 a {
     text-decoration: none;
 }

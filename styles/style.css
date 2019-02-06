@@ -8,6 +8,16 @@
     padding: 14px 16px;
 }
 
+.signin {
+    color: #fff;
+    border: 1px solid #4285f4;
+    border-radius: 2px;
+    background: #4285f4;
+    font-weight: bold;
+    display: inline-block;
+    line-height: 28px;
+    padding: 0 12px;
+}
 .bbnav {
     padding-left: 27px;
     margin: 0 !important;

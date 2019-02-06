@@ -9,11 +9,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    text-align: center;
-}
-
-.logo, .boxsearch, .searchbuttons {
+.logo, .boxsearch, .searchbuttons, p {
     text-align: center;
 }
 

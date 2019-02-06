@@ -3,4 +3,11 @@ body {
     font-size: small;
     color: #222;
     background: #fff;
+    margin: 0;
+}
+
+img {
+    padding-top: 109px;
+    height: 92px;
+    width: 272px;
 }

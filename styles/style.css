@@ -1,8 +1,11 @@
-#topbar {
-    position: absolute;
-    top: -295px;
-    right: 0;
-    width: 100%
+.topnav {
+    overflow: hidden;
+}
+
+.topnav li {
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
 }
 
 a {

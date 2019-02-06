@@ -17,6 +17,7 @@
     margin-right: 30px;
     float: right;
 }
+
 a {
     text-decoration: none;
 }
@@ -37,6 +38,10 @@ ul {
         line-height: 40px;
         background-color: #f2f2f2;
         border-top: 1px solid #e4e4e4;
+}
+
+.bottomnav a {
+    color: #5f6368;
 }
 
 img {

@@ -4,12 +4,15 @@ img {
     width: 272px;
 }
 
+html, body {
+    font-size: small;
+    margin: 0;
+}
+
 body {
     font-family: Arial, sans-serif;
-    font-size: small;
     color: #222;
     background: #fff;
-    margin: 0;
 }
 
 html {

@@ -1,3 +1,14 @@
+#topbar {
+    position: absolute;
+    top: -295px;
+    right: 0;
+    width: 100%
+}
+
+a {
+    text-decoration: none;
+}
+
 p {
     text-align: center;
 }
@@ -6,6 +17,7 @@ img {
     padding-top: 109px;
     height: 92px;
     width: 272px;
+    box-sizing: 
 }
 
 body, a, p {

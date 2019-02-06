@@ -31,6 +31,7 @@ ul {
 
 .bottomnav {
         left: 0;
+        position: absolute;
         bottom: 0;
         width: 100%;
         line-height: 40px;

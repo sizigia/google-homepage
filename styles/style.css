@@ -63,7 +63,7 @@
     margin: 0 !important;
 }
 
-.right, .glutton, .glink {
+.right, .glink {
     margin-right: 30px;
     float: right;
 }

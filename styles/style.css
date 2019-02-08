@@ -33,6 +33,13 @@
     text-align: center;
 }
 
+.gs {
+    height: 36px;
+    background-color: #f2f2f2;
+    color: #757575;
+    cursor: pointer;
+}
+
 .bbnav {
     padding-left: 27px;
     margin: 0 !important;

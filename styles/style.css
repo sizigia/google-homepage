@@ -35,9 +35,14 @@
 
 .gs {
     height: 36px;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
     background-color: #f2f2f2;
     color: #757575;
-    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;    
 }
 
 .bbnav {

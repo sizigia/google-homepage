@@ -29,6 +29,10 @@
     padding: 0 12px;
 }
 
+.searchbuttons {
+    text-align: center;
+}
+
 .bbnav {
     padding-left: 27px;
     margin: 0 !important;

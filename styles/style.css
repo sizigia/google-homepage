@@ -69,6 +69,10 @@
     float: right;
 }
 
+#lang {
+    color: -webkit-link;
+}
+
 a {
     text-decoration: none;
     color: rgba(0,0,0,0.87);

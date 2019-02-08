@@ -46,6 +46,11 @@
     cursor: pointer;    
 }
 
+.searchbuttons {
+    height: 58px;
+    width: 100%;
+}
+
 #search {
     width: 584px;
     height: 44px;
